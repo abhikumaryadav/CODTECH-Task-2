@@ -8,12 +8,13 @@ Project Overview
 Project Title: Food Wallah
 ![Screenshot (173)](https://github.com/user-attachments/assets/386a6e29-576e-419a-8dff-060ae27a73bf)
 
-Food Delivery Website
-Overview
+<h1>Food Delivery Website</h1> <br/>
+<h2>Overview</h2> <br/>
+
 Welcome to the Food Delivery Website! Our platform provides a seamless and convenient way for customers to order food from their favorite local restaurants and have it delivered straight to their doorstep. Whether you're craving pizza, sushi, or a gourmet burger, our website offers a wide variety of options to satisfy your appetite.
 
-Key Features
-User-Friendly Interface
+<h3>Key Features</h3> <br/>
+<b>User-Friendly Interface</b> <br/>
 
 Intuitive design for easy navigation
 Responsive layout for both desktop and mobile users
