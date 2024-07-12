@@ -1,2 +1,1 @@
-# CODTECH-Task-2
-Full stack project
+# Vite-TailwindCSS-React-Starter-Pack
