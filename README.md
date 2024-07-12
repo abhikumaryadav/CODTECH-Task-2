@@ -47,4 +47,8 @@ Project Title: Food Wallah <br/>
             </ul>
         </li>
         <li><strong>Secure Payments</strong>
+         <ul>
+                <li>Multiple payment options including credit/debit cards, digital wallets, and cash on delivery</li>
+                <li>Secure payment gateway to ensure user data protection</li>
+            </ul>
      
