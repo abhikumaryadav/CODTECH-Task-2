@@ -15,7 +15,12 @@ Project Title: Food Wallah <br/>
     <h2>Overview</h2>
     <p>Welcome to the Food Delivery Website! Our platform provides a seamless and convenient way for customers to order food from their favorite local restaurants and have it delivered straight to their doorstep. Whether you're craving pizza, sushi, or a gourmet burger, our website offers a wide variety of options to satisfy your appetite.</p>
     
-    <h3>Key Features</h3>
+  <h2> Key Features <h2/>
+<h3>1. User-Friendly Interface</h3>
+      -Intuitive design for easy navigation <br/>
+      -Responsive layout for both desktop and mobile users <br/>
+    
+ <h3>Key Features</h3>
     <ul>
         <li><strong>User-Friendly Interface</strong>
             <ul>
@@ -42,35 +47,4 @@ Project Title: Food Wallah <br/>
             </ul>
         </li>
         <li><strong>Secure Payments</strong>
-            <ul>
-                <li>Multiple payment options including credit/debit cards, digital wallets, and cash on delivery</li>
-                <li>Secure payment gateway to ensure user data protection</li>
-            </ul>
-        </li>
-        <li><strong>Customer Reviews and Ratings</strong>
-            <ul>
-                <li>Authentic reviews and ratings from other customers</li>
-                <li>Ability to leave feedback and rate your own dining experience</li>
-            </ul>
-        </li>
-    </ul>
-    
-    <h3>Getting Started</h3>
-    <p>To get started with our Food Delivery Website, follow these simple steps:</p>
-    <ol>
-        <li><strong>Visit our Website</strong>
-            <ul>
-                <li>Navigate to our homepage using your preferred web browser.</li>
-            </ul>
-        </li>
-        <li><strong>Create an Account</strong>
-            <ul>
-                <li>Sign up with your email or social media account to create a user profile.</li>
-            </ul>
-        </li>
-        <li><strong>Browse Restaurants</strong>
-            <ul>
-                <li>Explore the wide range of restaurants and cuisines available in your area.</li>
-            </ul>
-        </li>
-        <li><strong>Place an Order</strong>
+     
